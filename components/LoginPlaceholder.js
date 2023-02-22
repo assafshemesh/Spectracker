@@ -9,7 +9,7 @@ const LoginPlaceholder = ({ navigation }) => {
     // const sessionContext = useContext(SessionContext);
     // const { updateSession } = useContext(SessionContext);
     // console.log("BEFORE UPDATE: sessionContext.therapistName = " + sessionContext.therapistName);
-    const managers = ["עדי"];
+    const managers = ["עדי","assaf"];
     // const therapists = ["Adi", "Coral", "May", "Hadar"];
     const therapists = ["עדי","קורל", "מאי", "הדר"];
 
